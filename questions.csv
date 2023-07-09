@@ -1,0 +1,50 @@
+1. The ‘logout’ built in command is used to
+a) shutdown the computer
+b) logoff of the computer
+c) logout the current user
+d) to exit the current shell
+2. The command ‘umask -S’
+a) prints the current mask using symbolic notation
+b) prints the current mask using octal numbers
+c) sets the mask to 000
+d) sets the mask to 777
+3. The ‘mapfile’ command
+a) reads lines of standard input and assigns each to the element of an indexed array
+b) reads lines of standard output file
+c) reads lines of standard error file
+d) none of the mentioned
+4. Which option of the kill command sends the given signal name to the specified process?
+a) -l
+b) -n
+c) -s
+d) -a
+5. Which command removes a directory from directory stack?
+a) dirs
+b) popd
+c) pushd
+d) rm
+6. Which command puts a script to sleep untill a signal is recieved?
+a) sleep
+b) suspend
+c) disown
+d) break
+7. The command ‘ulimit’
+a) set a limit on specified resource for system users
+b) set/show process resource limit
+c) set a limit on specified resource for system users & set/show process resource limit
+d) none of the mentioned
+8. Which command identifies the resource of a command?
+a) type
+b) typeset
+c) select
+d) source
+9. Which command wait for the specified process to complete and return the exit status?
+a) sleep
+b) wait
+c) delay
+d) stop
+10. Which command prints the accumulated user and system times for processes run from the shell?
+a) time
+b) times
+c) both time and times
+d) none of the mentioned
