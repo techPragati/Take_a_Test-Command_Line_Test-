@@ -1,4 +1,4 @@
-# Take_a_Test-Command_Line_Test-
+# Try_a_Test(Command_Line_Test)
 It prints 3 options for user 
 1.sign up 
 2.sign in 
